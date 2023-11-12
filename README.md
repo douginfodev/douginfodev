@@ -2,7 +2,7 @@
 
 #HARD SKILLS - Em atualização
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <div>WEB</div>
    <img align="center" alt="douginfodev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  
