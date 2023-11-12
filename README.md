@@ -3,14 +3,22 @@
 #HARD SKILLS - Em atualização
 
 <div style="display: inline_block"><br>
+  <div>WEB</div>
   <img align="center" alt="douginfodev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="douginfodev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="douginfodev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="douginfodev-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <div>MOBILE</div>
   <img align="center" alt="douginfodev-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
    <img align="center" alt="douginfodev-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+ <div>ROBOTICA</div>
  <img align="center" alt="douginfodev-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+<img align="center" alt="douginfodev-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div>JOGOS</div>
+ <img align="center" alt="douginfodev-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity3d/unity3d-original.svg">
+<img align="center" alt="douginfodev-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
+<div></div>
 </div>
 
 ##
