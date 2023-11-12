@@ -21,10 +21,10 @@
  <img align="center" alt="douginfodev-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 <img align="center" alt="douginfodev-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-<div>CONHECIMENTOS</div>
+<div>FERRAMENTAS</div>
  <img align="center" alt="douginfodev-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="douginfodev-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
+<img align="center" alt="douginfodev-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 <div></div>
 </div>
 
