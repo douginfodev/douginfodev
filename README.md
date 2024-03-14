@@ -1,6 +1,6 @@
 ### BEM VINDOS AO GITHUB DE DOUGLAS RAMOS (Prof. DOM)
 
-#HARD SKILLS - Em atualização
+#HARD SKILLS
 
 <div style="display: flex"><br>
   <div>WEB</div>
