@@ -7,15 +7,17 @@
 }
 
 :root {
-  --primary-color: url('../images/primary-color.png');
-  --on-primary-color: url('../images/card-back.png');
+  --container-color: #051834;
+  --container-image: url('../images/bckdarkbluesection.png');
 
   --border-color: #7bbcfc;
-  
-  --image-bck-fundo: url('../images/bckcontainers1.png');
-  --image-bck-containers: url('../images/primary-color.png');
-  --image-bck-containers1: url('../images/bckcontainers1.png');
-  --image-bck-green:  url('../images/fgreen.png');
+  --primary-color: #7bbcfc;
+  --secondary-color: #0c4d8d;
+
+  --background-color: #060A26;
+  --background-image:  url('../images/backdarkblue.png');
+  --foreground-color: #2c2965;
+  --foreground-image:  url('../images/foreground.png');
 
   --font-family: 'Montserrat', serif;
   font-size: 62.5%;
@@ -24,51 +26,88 @@
 .wrapper {
   display: flex;
   width: 98%;
-  height: 925px;
+  height: 1500px;
   margin: 0 auto;
   max-width: 1900px;
-  background-color: var(--image-bck-fundo);
+  background-color: var(--background-color);
+  background-image: var(--background-image);
 }
 
 body {
-  font-family: var(--font-family);
+  font-family:  var(--font-family);
   border-color: var(--border-color);
   border: none;
+  color: white;
 }
 
 h1 {
-  font-size: 3.5rem;
-  color: #7bbcfc;
-  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--primary-color);
 }
 
 h2 {
-  /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'; */
-  font-size: 1.5rem;
-  color: var(--border-color);
+  font-size: 1.4rem;
+  color: var(--primary-color);
 }
 
-ol{
+span {
+    font-size: 1.4rem;
+    color: var(--secondary-color);
+  }
+
+ul{
   width: 100%;
   margin-left: 30px;
 }
 
-ol li {
+ul li {
   /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'; */
   font-size: 2.9rem;
   color: var(--border-color);  
 }
 
+header{
+    width: 100%;
+    height: 90px;
+    background-color: var(--foreground-color);
+    background-image: var(--foreground-image);
+    border-bottom: 2px solid;
+    border-color: var(--border-color);
+}
+
+header .brand{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    width: 350px;
+    height: inherit;
+}
+
+header .brand .logo .title{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: inherit;
+    margin: 3px;
+}
+
+header .brand .title{
+    width: 230px;
+}
+
 main {
   display: flex;
   flex-direction: column;
-  width: 75%;
+  width: 100%;
+  padding: 15px;
   height: auto;
-  background-image: var(--primaryk-color);
 }
 
-aside {
-  width: 24%;
+section {
+  width: 100%;
   height: auto;
   padding: 1px;
   border-left: 1px solid var(--border-color);
