@@ -1,0 +1,286 @@
+h2{
+    color:rgb(127, 193, 255);
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 2.2rem;
+    text-align: center;
+    padding: 5px;
+  
+  }
+  
+  body {
+    font-size: 1.2rem;
+    background-color: rgb(10, 14, 31);
+    color: rgb(127, 193, 255);
+    border-radius: 10px;
+  }
+  
+  button{
+    width: 250px;
+    height: 60px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  
+    margin: 4.5px;
+    padding: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border: 0.5px solid;
+    border-radius: 100px;
+   
+    border-color: rgb(139, 213, 255);
+    background-color: var(--border-color);
+  
+    cursor: pointer;
+   }
+   
+   .btn-ok .label{
+    color: var(--on-primary-color);
+    align-items: center;
+    font-size: 2.0rem;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 0;
+    cursor: pointer;
+   }  
+  
+  div{
+    border: none;
+  }
+  
+  span{
+    text-align: center;
+    font-size: 2.0rem;
+    font-weight: 600;
+    color: Yellow;  
+  }
+  
+  span.resultado{
+    text-align: center;
+    width: 14%;
+    height: 105px;
+    font-size: 3.4rem;
+    font-weight: 700;
+    color: lime;
+    border-color: lime;
+    background-color: #363636;
+    border: 2px solid;
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #canvas-capa{
+    width: 100%;
+    height: 790px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 25px;
+    background-color: #1b2a4b;
+    background-image: url('../images/back_matematicando.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-color: var(--border-color);
+    padding-bottom: 150px;
+  }
+  
+  #canvas-results{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border: none;
+  }
+  
+  
+  .wrapper-column
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    width: 30%;
+    height: inherit; 
+  }
+  
+  .wrapper-column-logo{
+    width: 160px;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+  } 
+  
+  .wrapper-column{
+    border-right: 1px solid white;
+    cursor: pointer;
+  }
+  
+  .wrapper-column-logo img{
+    width:100%;
+    height: inherit;
+  }
+  
+  #listleft,
+  #center,
+  #list-right {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    height: auto;
+    padding-top: 8px;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 3.6rem;
+    font-weight: 900;
+  }
+  
+  /*div cards-table,
+  #center div{
+    /* background-image: url('../images/card-back.png'); 
+  }*/
+  
+  #canvas-cards-select {
+    display: flex;
+    width: 100%;
+    height: 980px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    /* background-image: var(--primary-color);  */
+  }
+  
+  #canvas-cards{
+    width: 40%;
+    height: auto;
+    /* background-image: var(--image-bck-green);   */
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  
+  .number-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    border: 1.5px solid;
+    border-radius: 10PX;
+    border-color: var(--border-color);
+    cursor: pointer;
+    margin: 5PX;
+  }
+  
+  .number-cards h2{
+    font-size:3.0rem;
+    font-weight: 700;
+    color: white;
+  }
+  
+  .number-cards:hover{
+    background-image: var(--on-primary-color);
+    color: white;
+  }
+  
+  .results{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 50%;
+    height: 300px;
+    gap: 20px;
+    border: 1px solid;
+    border-color: var(--border-color);
+    border-radius: 10px;
+    background-image: url('../images/froxo.png');
+  }
+  
+  #cards-showme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 70%;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: var(--border-color);
+    margin: 8px;
+    background-image: url('../images/bckblack.png');;
+  }
+  
+  #cards-showme h2{
+    font-size: 3.6rem;
+    color: white;
+    font-weight: 900;
+  }
+  
+  @media screen and (max-width: 680px){
+   h1{
+    font-size: 2.0rem;
+   }
+  
+   h3{
+    font-size: 1.8rem;
+   }
+  
+   .wrapper{
+      flex-direction: column;
+      width: 100%;
+      height: auto;
+    }
+  
+    .wrapper-column-logo{
+      align-items: start;
+    }
+    .wrapper-column-logo img{
+     width: 50%;  
+     height: auto;   
+    }
+  
+    #canvas-cards-select{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: auto;
+      padding: 10px;
+    }
+  
+    #canvas-cards{
+      width: 90%;
+      height: auto;
+    }
+    
+    main,
+    aside,
+    .results{
+      width: 100%;
+    }
+  
+    .footer-channel img{
+      width: 98%;
+      height: auto;
+    }
+  
+    #cards-showme{
+      width:50%;
+    }
+  
+    aside{
+      display: none;
+    }
+  }
