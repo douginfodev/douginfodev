@@ -39,6 +39,8 @@
     display: flex;
     background-color: var(--container-color);
     background-image: var(--container-image);
+    margin-bottom: 16px;
+    padding: 10px;
   }
 
   section .section-biography .avatar{
@@ -65,7 +67,7 @@
 
   section .section-academy{
     width: 400px;
-    height: inherit;
+    height: calc(inherit - 20px);
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -74,176 +76,22 @@
     border-color: var(--border-color);
   }
 
-
-
-
-  span.resultado{
-    text-align: center;
-    width: 14%;
-    height: 105px;
-    font-size: 3.4rem;
-    font-weight: 700;
-    color: lime;
-    border-color: lime;
-    background-color: #363636;
-    border: 2px solid;
-    background-color: aliceblue;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  #canvas-capa{
+  section .section-skills{
     width: 100%;
-    height: 790px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-end;
-    gap: 25px;
-    background-color: #1b2a4b;
-    background-image: url('../images/back_matematicando.png');
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    border-color: var(--border-color);
-    padding-bottom: 150px;
-  }
-  
-  #canvas-results{
-    width: 100%;
-    justify-content: center;
-    align-items: center;
-    border: none;
-  }
-  
-  
-  .wrapper-column
-  {
-    display: flex;
-    flex-direction: column;
-    justify-content: start;
-    align-items: center;
-    width: 30%;
-    height: inherit; 
-  }
-  
-  .wrapper-column-logo{
-    width: 160px;
-    display: flex;
-    align-items: end;
-    justify-content: end;
-  } 
-  
-  .wrapper-column{
-    border-right: 1px solid white;
-    cursor: pointer;
-  }
-  
-  .wrapper-column-logo img{
-    width:100%;
-    height: inherit;
-  }
-  
-  #listleft,
-  #center,
-  #list-right {
-    display: flex;
-    flex-direction: column;
-    width: 35%;
-    height: auto;
-    padding-top: 8px;
-    justify-content: space-around;
-    align-items: center;
-    cursor: pointer;
-    margin: 5px;
-    font-size: 3.6rem;
-    font-weight: 900;
-  }
-  
-  /*div cards-table,
-  #center div{
-    /* background-image: url('../images/card-back.png'); 
-  }*/
-  
-  #canvas-cards-select {
-    display: flex;
-    width: 100%;
-    height: 980px;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    /* background-image: var(--primary-color);  */
-  }
-  
-  #canvas-cards{
-    width: 40%;
-    height: auto;
-    /* background-image: var(--image-bck-green);   */
+    height: 250px;
     padding: 10px;
     display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-  
-  .number-cards{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 80px;
-    height: 80px;
-    border: 1.5px solid;
-    border-radius: 10PX;
-    border-color: var(--border-color);
-    cursor: pointer;
-    margin: 5PX;
-  }
-  
-  .number-cards h2{
-    font-size:3.0rem;
-    font-weight: 700;
-    color: white;
-  }
-  
-  .number-cards:hover{
-    background-image: var(--on-primary-color);
-    color: white;
-  }
-  
-  .results{
-    display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    width: 50%;
-    height: 300px;
-    gap: 20px;
-    border: 1px solid;
-    border-color: var(--border-color);
-    border-radius: 10px;
-    background-image: url('../images/froxo.png');
+    background-color: var(--container-color);
+    background-image: var(--container-image);
+    margin-bottom: 16px;
   }
-  
-  #cards-showme{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 20%;
-    height: 70%;
-    border-radius: 10px;
-    border: 2px solid;
-    border-color: var(--border-color);
-    margin: 8px;
-    background-image: url('../images/bckblack.png');;
-  }
-  
-  #cards-showme h2{
-    font-size: 3.6rem;
-    color: white;
-    font-weight: 900;
+
+  section img{
+     width: 30%;
+     height: 80px;
   }
   
   @media screen and (max-width: 680px){
