@@ -26,7 +26,7 @@
             </header>
             <section>
               <section class="section-biography">
-                <div class="avatar">
+                <div class="avatar" style="display:none">
                     <img src="assets/images/avatar.png" alt="Foto Douglas Ramos">
                 </div>
                 <section class="section-description">
