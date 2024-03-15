@@ -60,11 +60,11 @@
                <div>ROBOTICA</div>
                <img alt="douginfodev-arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
                <img alt="douginfodev-python"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-              <div>JOGOS</div>
-               <img alt="douginfodev-arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-               <img alt="douginfodev-csharp"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
-              <div>FERRAMENTAS</div>
-              <img alt="douginfodev-Js"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+              <div style="font-weight:700;">JOGOS</div>
+               <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+               <img align="center" alt="douginfodev-csharp" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
+              <div style="font-weight:700;">FERRAMENTAS</div>
+              <img align="center" alt="douginfodev-Js"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
                <img align="center" alt="douginfodev-arduino"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
               <img align="center" alt="douginfodev-csharp"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
               <img align="center" alt="douginfodev-csharp" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
