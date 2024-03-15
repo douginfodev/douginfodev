@@ -22,28 +22,22 @@
                     <div class="title">
                         <h1>DOUGLAS RAMOS</h1>
                         <h2>FULL STACK<span> DEVELOPER</span></h2>
-                        
                     </div>
                 </div>
             </header>
-
             <section>
               <section class="section-biography">
                 <div class="avatar">
                     <img src="assets/images/avatar.png" alt="Foto Douglas Ramos">
                 </div>
-                 
                 <section class="section-description">
                     <h1>BIOGRAFIA</h1>
                     <h2>SOBRE</h2>
                     <p>Me chamo Douglas A. Ramos, tenho 43 anos e atuo na área  de programação, desde 2004, onde tive a oportunidade de desenvolver softwares para lojas de autopeças, farmácias, escritórios de advocacia e cronometragem, todos utilizando arquitetura cliente/servidor.
-
                     </p><p>Atuando na área de desenvolvimento web, desenvolvi sites institucionais, pessoais, bem como, portais de notícias.  Tais atividades foram na estruturação de sites responsivos(front-end), painéis administrativos (back-end), manutenção e atualização de sites. 
-                    </p><p></p>
-                        Atualmente trabalhando em desenvolvimento de API Rest para aplicações web e mobile, bem como, no desenvolvimento e atualizações de software(desktop) personalizados, para computação de tempos e resultados de competições desportivas.
+                    </p><p></p>Atualmente trabalhando em desenvolvimento de API Rest para aplicações web e mobile, bem como, no desenvolvimento e atualizações de software(desktop) personalizados, para computação de tempos e resultados de competições desportivas.
                     </p>
-                </section>  
-
+                </section>
                 <section class="section-academy">
                     <h1>FORMAÇÃO ACADÊMICA</h1>
                     <h2>GRADUAÇÕES / ESPECIALIZAÇÕES</h2>
@@ -55,7 +49,6 @@
                     </ul>
                 </section>
               </section>
-
             <section class="section-skills">
                 <h1>SKILLS</h1>
                 <h2>Hard</h2>
@@ -70,54 +63,14 @@
                <img alt="douginfodev-python"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
               <div>JOGOS</div>
                <img alt="douginfodev-arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-               <img alt="douginfodev-csharp"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-              
+               <img alt="douginfodev-csharp"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
               <div>FERRAMENTAS</div>
-              <img alt="douginfodev-Js" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- 
+              <img alt="douginfodev-Js" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
                <img align="center" alt="douginfodev-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
               <img align="center" alt="douginfodev-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
               <img align="center" alt="douginfodev-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
             </div>
             </section>
-
-            <!-- <section-continuos> 
-                <section-col>
-                   <h1></h1>
-                   <h2></h2>
-                </section-col>
-                <section-col>
-                    <h1></h1>
-                    <h2></h2>
-                 </section-col>
-                 <section-col>
-                    <h1></h1>
-                    <h2></h2>
-                 </section-col>
-            </section-continuos>
-
-            <section-channel>
-                <section-col>
-                    <h1></h1>
-                    <h2></h2>
-                 </section-col>
-                 <section-col>
-                    <h1></h1>
-                    <h2></h2>
-                 </section-col>
-                 <section-col>
-                    <h1></h1>
-                    <h2></h2>
-                 </section-col>
-                 <section-col>
-                    <h1></h1>
-                    <h2></h2>
-                 </section-col>   
-            </section-channel> -->
-
-            </section>
-
-
             <footer>
               <footer class="footer-social-media">
                 <h1>REDE SOCIAIS</h1>
@@ -133,5 +86,4 @@
         </main>
     </div>
 </body>
-
 </html>
