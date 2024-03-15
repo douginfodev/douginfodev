@@ -8,7 +8,6 @@
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
     <meta name="Description" content="Repositorios Douglas Ramos -  Professor DOM">
     <meta name="robots" content="index,follow">
-    <title>Repositorios GitHub by Prof. DOM</title>
 </head>
 
 <body>
@@ -65,10 +64,10 @@
                <img alt="douginfodev-arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
                <img alt="douginfodev-csharp"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
               <div>FERRAMENTAS</div>
-              <img alt="douginfodev-Js" width="20px" height="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
-               <img align="center" alt="douginfodev-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-              <img align="center" alt="douginfodev-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-              <img align="center" alt="douginfodev-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+              <img alt="douginfodev-Js"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+               <img align="center" alt="douginfodev-arduino"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+              <img align="center" alt="douginfodev-csharp"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+              <img align="center" alt="douginfodev-csharp" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
             </div>
             </section>
             <footer>
