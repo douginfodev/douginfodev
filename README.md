@@ -69,6 +69,42 @@
               <img align="center" alt="douginfodev-csharp"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
               <img align="center" alt="douginfodev-csharp" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
             </div>
+            <section-channel>
+                    <div class="section-channel-title">
+                        <h1>PROF. DOM</h1>
+                        <h2>Canal Youtube</h2>
+                    </div>
+                    <div class="section-channel-sections">
+                        <section-col>
+                            <h1>CANAL YOUTUBE</h1>
+                            <img src="assets/images/profdom.svg" alt="Canal Youtube Prof. DOM">
+                       <p>Bem-vindo ao canal do Professor DOM. Seu canal de conteúdos sobre o mundo da programação, matemática e jogos.</p>
+                        </section-col>
+                        <section-col>
+                            <h1>MATEMATICANDO</h1>
+                            <img src="assets/images/matematicando.svg" alt="Playlist Youtube Matematicando">
+                            <a href="https://www.youtube.com/channel/UC9cGKfFU0ZG-TvNLbfYUTEg" target="_blank">
+                            <button>MATEMATICANDO</button>
+                            </a>
+                        </section-col>
+                        <section-col>
+                            <h1>PROGMÁTICA</h1>
+                            <img src="assets/images/progmatica.svg" alt="Playlist Youtube Progmática"
+                             alt="Playlist Youtube Progmática">
+                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm" target="_blank">
+                            <button>PROGMATICA</button>
+                         </a>
+                        </section-col>
+                        <section-col>
+                            <h1>GAMECÂNICA</h1>
+                            <img src="assets/images/gamecanica.svg" alt="Playlist Youtube Progmática"
+                            alt="Playlist Youtube Gamecânica">
+                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm" target="_blank">
+                            <button>GAMECÂNICA</button>
+                        </a>
+                        </section-col>
+                    </div> 
+                </section-channel>
             </section>
             <footer>
               <footer class="footer-social-media">
