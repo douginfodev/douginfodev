@@ -83,7 +83,7 @@
                         <section-col>
                             <h1>MATEMATICANDO</h1>
                             <img src="assets/images/matematicando.svg" alt="Playlist Youtube Matematicando">
-                            <a href="https://www.youtube.com/channel/UC9cGKfFU0ZG-TvNLbfYUTEg" target="_blank">
+                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
                             <button>MATEMATICANDO</button>
                             </a>
                         </section-col>
