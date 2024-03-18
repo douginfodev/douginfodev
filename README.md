@@ -64,12 +64,10 @@
             </div>
             <section-channel>
                     <div class="section-channel-title">
-                        <h1>PROF. DOM</h1>
-                        <h2>Canal Youtube</h2>
+                        <h1>PROF. DOM -  Canal Youtube</h1>
                     </div>
-                    <div class="section-channel-sections" style="display: inline_block">
+                    <div class="section-channel-sections" style="display: inline_block; !important">
                         <section-col>
-                            <h1>CANAL YOUTUBE</h1>
                             <img src="assets/images/profdom.svg" alt="Canal Youtube Prof. DOM">
                        <p>Bem-vindo ao canal do Professor DOM. Seu canal de conteúdos sobre o mundo da programação, matemática e jogos.</p>
                         </section-col>
