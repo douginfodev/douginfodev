@@ -17,7 +17,17 @@
                 <div class="brand">
                     <div class="logo" style="display: inline_block; !important">
                        <img src="assets/images/logo.png" alt="Prof. DOM logo">
-                       <img src="assets/images/logo.png" alt="Prof. DOM logo">
+                       <footer>
+              <footer class="footer-social-media">
+                <h2>Contato</h2> 
+                <div>
+                <a href="https://www.youtube.com/@profdomdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+                 <a href="https://www.linkedin.com/in/douglas-ramos-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/profdomdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dougarainfo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+              </footer>
+            </footer>
                     </div>
                     <div class="title">
                         <h1>DOUGLAS RAMOS - FULL STACK DEVELOPER</h1>
@@ -68,7 +78,7 @@
                     </div>
                     <div class="section-channel-sections" style="display: inline_block; !important">
                         <section-col>
-                            <img src="assets/images/profdom.svg" alt="Canal Youtube Prof. DOM">
+                            <img src="assets/images/profdom.svg" width="230px" height="150px" alt="Canal Youtube Prof. DOM">
                        <p>Bem-vindo ao canal do Professor DOM. Seu canal de conteúdos sobre o mundo da programação, matemática e jogos.</p>
                         </section-col>
                         <section-col>
@@ -97,18 +107,6 @@
                     </div> 
                 </section-channel>
             </section>
-            <footer>
-              <footer class="footer-social-media">
-                <h1>REDE SOCIAIS</h1>
-                <h2>Contato</h2> 
-                <div>
-                <a href="https://www.youtube.com/@profdomdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-                 <a href="https://www.linkedin.com/in/douglas-ramos-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/profdomdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dougarainfo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-              </footer>
-            </footer>
         </main>
     </div>
 </body>
