@@ -74,7 +74,7 @@
                         <h1>PROF. DOM</h1>
                         <h2>Canal Youtube</h2>
                     </div>
-                    <div class="section-channel-sections" style="display:inline-block">
+                    <div class="section-channel-sections" style="display:inline_block">
                         <section-col>
                             <h1>CANAL YOUTUBE</h1>
                             <img src="assets/images/profdom.svg" alt="Canal Youtube Prof. DOM">
