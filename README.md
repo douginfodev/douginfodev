@@ -15,23 +15,19 @@
         <main>
             <header>
                 <div class="brand">
-                    <div class="logo">
+                    <div class="logo" style="display: inline_block; !important">
+                       <img src="assets/images/logo.png" alt="Prof. DOM logo">
                        <img src="assets/images/logo.png" alt="Prof. DOM logo">
                     </div>
                     <div class="title">
-                        <h1>DOUGLAS RAMOS</h1>
-                        <h2>FULL STACK<span> DEVELOPER</span></h2>
+                        <h1>DOUGLAS RAMOS - FULL STACK DEVELOPER</h1>
                     </div>
                 </div>
             </header>
             <section>
               <section class="section-biography">
-                <div class="avatar" style="display:none">
-                    <img src="assets/images/avatar.png" alt="Foto Douglas Ramos">
-                </div>
                 <section class="section-description">
                     <h1>BIOGRAFIA</h1>
-                    <h2>SOBRE</h2>
                     <p>Me chamo Douglas A. Ramos, tenho 43 anos e atuo na área  de programação, desde 2004, onde tive a oportunidade de desenvolver softwares para lojas de autopeças, farmácias, escritórios de advocacia e cronometragem, todos utilizando arquitetura cliente/servidor.
                     </p><p>Atuando na área de desenvolvimento web, desenvolvi sites institucionais, pessoais, bem como, portais de notícias.  Tais atividades foram na estruturação de sites responsivos(front-end), painéis administrativos (back-end), manutenção e atualização de sites. 
                     </p><p></p>Atualmente trabalhando em desenvolvimento de API Rest para aplicações web e mobile, bem como, no desenvolvimento e atualizações de software(desktop) personalizados, para computação de tempos e resultados de competições desportivas.
@@ -39,7 +35,6 @@
                 </section>
                 <section class="section-academy">
                     <h1>FORMAÇÃO ACADÊMICA</h1>
-                    <h2>GRADUAÇÕES / ESPECIALIZAÇÕES</h2>
                     <ul>
                        <li>Pós-Graduado em Tecnologias e Desenvolvimento Web e Mobile - Faesa 2023</li> 
                        <li>Bacharel em Ciência da Computação pela Universidade de Vila Velha (2004)</li>
@@ -74,7 +69,7 @@
                         <h1>PROF. DOM</h1>
                         <h2>Canal Youtube</h2>
                     </div>
-                    <div class="section-channel-sections" style="display:inline_block">
+                    <div class="section-channel-sections" style="display: inline_block">
                         <section-col>
                             <h1>CANAL YOUTUBE</h1>
                             <img src="assets/images/profdom.svg" alt="Canal Youtube Prof. DOM">
