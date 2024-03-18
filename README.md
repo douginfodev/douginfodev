@@ -77,31 +77,22 @@
                         <h1>PROF. DOM -  Canal Youtube</h1>
                     </div>
                     <div class="section-channel-sections" style="display: inline_block; !important">
-                        <section-col>
+                        <section-col style="text-align:center;">
                             <img src="assets/images/profdom.svg" width="230px" height="150px" alt="Canal Youtube Prof. DOM">
                        <p>Bem-vindo ao canal do Professor DOM. Seu canal de conteúdos sobre o mundo da programação, matemática e jogos.</p>
                         </section-col>
-                        <section-col>
-                            <h1>MATEMATICANDO</h1>
-                            <img src="assets/images/matematicando.svg" width="230px" height="150px" alt="Playlist Youtube Matematicando">
+                        <section-col style="display: inline_block; !important">
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
-                            <button>MATEMATICANDO</button>
+              <img src="assets/images/matematicando.svg" width="230px" height="150px" alt="Playlist Youtube Matematicando">
+                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
                             </a>
-                        </section-col>
-                        <section-col>
-                            <h1>PROGMÁTICA</h1>
+                                <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm"  target="_blank">
                             <img src="assets/images/progmatica.svg" width="230px" height="150px" alt="Playlist Youtube Progmática"
                              alt="Playlist Youtube Progmática">
-                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm"  target="_blank">
-                            <button>PROGMATICA</button>
                          </a>
-                        </section-col>
-                        <section-col>
-                            <h1>GAMECÂNICA</h1>
+                              <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm" target="_blank">
                             <img src="assets/images/gamecanica.svg" width="230px" height="150px" alt="Playlist Youtube Progmática"
                             alt="Playlist Youtube Gamecânica">
-                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm" target="_blank">
-                            <button>GAMECÂNICA</button>
                         </a>
                         </section-col>
                     </div> 
