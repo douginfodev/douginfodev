@@ -81,7 +81,7 @@
                             <img src="assets/images/profdom.svg" width="230px" height="150px" alt="Canal Youtube Prof. DOM">
                        <p>Bem-vindo ao canal do Professor DOM. Seu canal de conteúdos sobre o mundo da programação, matemática e jogos.</p>
                         </section-col>
-                        <section-col style="display: inline_block; !important">
+                        <section-col style="padding: 30px; display: inline_block; !important">
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
               <img src="assets/images/matematicando.svg" width="230px" height="150px" alt="Playlist Youtube Matematicando">
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
