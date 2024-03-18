@@ -83,22 +83,22 @@
                         </section-col>
                         <section-col>
                             <h1>MATEMATICANDO</h1>
-                            <img src="assets/images/matematicando.svg" alt="Playlist Youtube Matematicando">
+                            <img src="assets/images/matematicando.svg" width="230px" height="150px" alt="Playlist Youtube Matematicando">
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
                             <button>MATEMATICANDO</button>
                             </a>
                         </section-col>
                         <section-col>
                             <h1>PROGMÁTICA</h1>
-                            <img src="assets/images/progmatica.svg" alt="Playlist Youtube Progmática"
+                            <img src="assets/images/progmatica.svg" width="230px" height="150px" alt="Playlist Youtube Progmática"
                              alt="Playlist Youtube Progmática">
-                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm" target="_blank">
+                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm"  target="_blank">
                             <button>PROGMATICA</button>
                          </a>
                         </section-col>
                         <section-col>
                             <h1>GAMECÂNICA</h1>
-                            <img src="assets/images/gamecanica.svg" alt="Playlist Youtube Progmática"
+                            <img src="assets/images/gamecanica.svg" width="230px" height="150px" alt="Playlist Youtube Progmática"
                             alt="Playlist Youtube Gamecânica">
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm" target="_blank">
                             <button>GAMECÂNICA</button>
