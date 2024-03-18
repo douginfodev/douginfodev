@@ -27,7 +27,6 @@
             <section>
               <section class="section-biography">
                 <section class="section-description">
-                    <h1>BIOGRAFIA</h1>
                     <p>Me chamo Douglas A. Ramos, tenho 43 anos e atuo na área  de programação, desde 2004, onde tive a oportunidade de desenvolver softwares para lojas de autopeças, farmácias, escritórios de advocacia e cronometragem, todos utilizando arquitetura cliente/servidor.
                     </p><p>Atuando na área de desenvolvimento web, desenvolvi sites institucionais, pessoais, bem como, portais de notícias.  Tais atividades foram na estruturação de sites responsivos(front-end), painéis administrativos (back-end), manutenção e atualização de sites. 
                     </p><p></p>Atualmente trabalhando em desenvolvimento de API Rest para aplicações web e mobile, bem como, no desenvolvimento e atualizações de software(desktop) personalizados, para computação de tempos e resultados de competições desportivas.
@@ -44,9 +43,8 @@
                 </section>
               </section>
             <section class="section-skills">
-                <h1>SKILLS</h1>
-                <h2>Hard</h2>
-                <div class="section-skills-hard">
+                <h1>HARD SKILLS</h1>
+                <div class="section-skills-hard" style="display; inlie_block; !important">
                 <div style="font-weight:700; margin-bottom:20px;"><h2>WEB</h2></div>
                 <img align="center" alt="douginfodev-Js" height="80" width="90"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 <img align="center" alt="douginfodev-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
