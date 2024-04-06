@@ -172,6 +172,8 @@ footer .footer-social-media, .footer-tools {
   justify-content: space-around;
   align-items: center;
   padding: 5px;
+  border-radius: 0;
+  border: none;
 }
 
 .footer-social-media div,
@@ -181,6 +183,8 @@ footer .footer-social-media, .footer-tools {
     padding: 2px;
     display: flex;
     justify-content: space-around;
+    border-radius: 0;
+    border: none;
   }
 
 .footer-social-media div img {
