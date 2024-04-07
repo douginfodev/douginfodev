@@ -55,8 +55,7 @@
             <section class="section-skills" style="display: inline_block; !important">
                 <h1>HARD SKILLS</h1>
                 <div class="section-skills-hard" style="display: inline_block; !important">
-                |<div style="font-weight:700; margin-bottom:20px;"><h2>WEB</h2></div>
-                <img align="center" alt="douginfodev-Js" height="80" width="90"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+                |<img align="center" alt="douginfodev-Js" height="80" width="90"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 <img align="center" alt="douginfodev-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
                 <img align="center"  alt="douginfodev-CSS" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
                 <img align="center" alt="douginfodev-Php" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | <div style="font-weight:700; margin-bottom:20px;"><h2>ROBOTICA</h2></></div>
