@@ -77,7 +77,7 @@
                         </section-col>
                     </div> 
                 </section-channel>
-                                       <div style="font-weight:700; margin-bottom:20px;"><h2>FERRAMENTAS / IDE / FRAMEWORKS</h2></div>
+              <div style="font-weight:700; margin-bottom:20px;"><h2>FERRAMENTAS / IDE / FRAMEWORKS</h2>
               <img align="center" alt="douginfodev-Js"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
               <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
               <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
