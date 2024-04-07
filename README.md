@@ -86,20 +86,6 @@
                         </section-col>
                     </div> 
                 </section-channel>
-
-                <section-channel>
-                    <div class="section-channel-title">
-                        <h1>BOOTCAMP / SEMANA DE IMERSÃO - Estudos Continuos</h1>
-                    </div>
-                    <div class="section-channel-sections" style="display: inline_block; !important">
-                        <section-col style="padding: 30px; margin:15px; display: inline_block; !important">
-                           <img src="assets/images/logonlw2024.svg" width="230px" height="150px" alt="NLW - Escola Rocketseat">
-                            <img src="assets/images/logodesenvolve2024.svg" width="230px" height="150px" alt="Desenvolve 2024 - Grupo Boticário"
-                             alt="Playlist Youtube Progmática">
-                            <img src="assets/images/logoone.svg" width="230px" height="150px" alt="ONE - Oracle Next Education">
-                        </section-col>
-                    </div> 
-                </section-channel>
             </section>
         </main>
     </div>
