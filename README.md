@@ -36,7 +36,7 @@
                     </p>
                 </section>
                 <section class="section-academy">
-                    <h1>FORMAÇÃO ACADÊMICA</h1>
+                    ##FORMAÇÃO ACADÊMICA
                     <ul>
                        <li>Pós-Graduado em Tecnologias e Desenvolvimento Web e Mobile - Faesa 2023</li> 
                        <li>Bacharel em Ciência da Computação pela Universidade de Vila Velha (2004)</li>
