@@ -17,13 +17,6 @@
                 <div class="brand">
                     <div class="logo" style="display: inline_block; !important">
                        <img src="assets/images/logo.png" alt="Prof. DOM logo">
-                                   <footer>
-              <footer class="footer-social-media">
-                <div>
-div>
-              </footer>
-            </footer>
-            
                     </div>
                     <div class="title">
                         <h1>DOUGLAS RAMOS - FULL STACK DEVELOPER</h1>
