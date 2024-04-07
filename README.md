@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </header>
-            <section>
+            <section style="display: inline-block; !important">
               <section class="section-biography">
                 <section class="section-description">
                     <p>Me chamo Douglas A. Ramos, tenho 43 anos e atuo na área  de programação, desde 2004, onde tive a oportunidade de desenvolver softwares para lojas de autopeças, farmácias, escritórios de advocacia e cronometragem, todos utilizando arquitetura cliente/servidor.
@@ -52,9 +52,9 @@
                     </ul>
                 </section>
               </section>
-            <section class="section-skills" style="display: inline-block; !important">
+            <section class="section-skills" style="display: inline_block; !important">
                 <h1>HARD SKILLS</h1>
-                <div class="section-skills-hard" style="display: inline-block; !important">
+                <div class="section-skills-hard" style="display: inline_block; !important">
                 <div style="font-weight:700; margin-bottom:20px;"><h2>WEB</h2></div>
                 <img align="center" alt="douginfodev-Js" height="80" width="90"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 <img align="center" alt="douginfodev-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
