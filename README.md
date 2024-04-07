@@ -77,6 +77,16 @@
                         </section-col>
                     </div> 
                 </section-channel>
+                                       <div style="font-weight:700; margin-bottom:20px;"><h2>FERRAMENTAS / IDE / FRAMEWORKS</h2></div>
+              <img align="center" alt="douginfodev-Js"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+              <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+              <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+              <img align="center" alt="douginfodev-arduino"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+              <img align="center" alt="douginfodev-csharp"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+              <img align="center" alt="douginfodev-trello"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+              <img align="center" alt="douginfodev-csharp" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+            </div>
+       
             </section>
         </main>
     </div>
