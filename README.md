@@ -19,7 +19,6 @@
                        <img src="assets/images/logo.png" alt="Prof. DOM logo">
                        <footer>
               <footer class="footer-social-media">
-                <h2>Contato</h2> 
                 <div>
                 <a href="https://www.youtube.com/@profdomdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
                  <a href="https://www.linkedin.com/in/douglas-ramos-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -62,14 +61,15 @@
                 <img align="center"  alt="douginfodev-node" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
                 <img align="center" alt="douginfodev-Php" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | 
                 <img align="center" alt="douginfodev-laravel" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"> | 
-                <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
                <img align="center" alt="douginfodev-python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  |
-               <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
                <img align="center" alt="douginfodev-csharp" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
-              <div style="font-weight:700; margin-bottom:20px;"><h2>FERRAMENTAS</h2></div>
+              <div style="font-weight:700; margin-bottom:20px;"><h2>FERRAMENTAS / IDE / FRAMEWORKS</h2></div>
               <img align="center" alt="douginfodev-Js"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
-               <img align="center" alt="douginfodev-arduino"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+              <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+              <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+              <img align="center" alt="douginfodev-arduino"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
               <img align="center" alt="douginfodev-csharp"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+              <img align="center" alt="douginfodev-trello"  height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
               <img align="center" alt="douginfodev-csharp" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
             </div>
             <section-channel>
