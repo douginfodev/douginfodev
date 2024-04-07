@@ -68,25 +68,20 @@
             </div>
             <section-channel>
                     <div class="section-channel-title">
-                        <h1>PROF. DOM -  Canal Youtube</h1>
+                        <h1>PROGRAMA DE ESTUDOS -  Formação Continuada</h1>
                     </div>
                     <div class="section-channel-sections" style="display: inline_block; !important">
-                        <section-col style="text-align:center;">
-                            <img src="assets/images/profdom.svg" width="230px" height="150px" alt="Canal Youtube Prof. DOM">
-                       <p>Bem-vindo ao canal do Professor DOM. Seu canal de conteúdos sobre o mundo da programação, matemática e jogos.</p>
-                        </section-col>
                         <section-col style="padding: 30px; margin:15px; display: inline_block; !important">
-                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
-              <img src="assets/images/matematicando.svg" width="230px" height="150px" alt="Playlist Youtube Matematicando">
+                            <a href="https://www.dio.me" target="_blank">
+              <img src="assets/images/logocampusexpert2024.svg" width="230px" height="150px" alt="Dio Campus Expert">
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
                             </a>
-                                <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm"  target="_blank">
-                            <img src="assets/images/progmatica.svg" width="230px" height="150px" alt="Playlist Youtube Progmática"
+                                <a href="https://desenvolve.grupoboticario.com.br/"  target="_blank">
+                            <img src="assets/images/logodesenvolve2024.svg" width="230px" height="150px" alt="Desenvolve 2024 - Grupo Boticário"
                              alt="Playlist Youtube Progmática">
                          </a>
-                              <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsyD73HMz6Uzz2cBy3E47ZVm" target="_blank">
-                            <img src="assets/images/gamecanica.svg" width="230px" height="150px" alt="Playlist Youtube Progmática"
-                            alt="Playlist Youtube Gamecânica">
+                              <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">
+                            <img src="assets/images/logoone.svg" width="230px" height="150px" alt="ONE - Oracle Next Education">
                         </a>
                         </section-col>
                     </div> 
