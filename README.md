@@ -102,3 +102,28 @@
     </div>
 </body>
 </html>
+
+SOBRE
+Uma chance imperdível para quem quer aprender a codar na linguagem em que o Windows é feito! O Bootcamp Coding The Future Avanade - .NET Developer vai te ensinar a sair do 0 e criar suas primeiras APIs que se conectam com banco de dados a partir da metodologia orientada a testes - TDD.
+
+Estude os fundamentos de .NET e C# e aprenda a principal stack de desenvolvimento da Microsoft para se tornar um profissional Back-end com capacidade de desenvolver com agilidade, criando e testando aplicações que apresentam os melhores tempos de resposta sem exigir muito poder de processamento.
+
+Nesta trilha, você vai desenvolver suas habilidades com projetos práticos, desafios de códigos e mentorias com experts da DIO e, além disso, ficará disponível na Talent Match para tech recrutadores de empresas parceiras que procuram profissionais com esse perfil.
+
+Atividades:
+Mentorias (Live): Momento em que você irá se inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
+
+Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
+
+Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
+
+Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
+
+Ferramentas para o seu aprendizado:
+Fórum: Espaço para você interagir e tirar suas dúvidas técnicas com a nossa comunidade.
+
+Rooms: Espaço para você conversar com outros matriculados no bootcamp e aumentar o seu networking.
+
+Matriculados: Saiba quem está participando da mesma jornada educacional que você.
+
+Certificado: Baixe e compartilhe os certificados de todas as suas conquistas ao longo desse bootcamp.

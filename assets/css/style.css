@@ -1,5 +1,5 @@
   button{
-    width: 250px;
+    width: 200px;
     height: 60px;
   
     display: flex;
@@ -13,8 +13,8 @@
     border: 0.5px solid;
     border-radius: 100px;
    
-    border-color: rgb(139, 213, 255);
-    background-color: var(--border-color);
+    border-color: var(--border-color);
+    color: var(--border-color);
   
     cursor: pointer;
    }
@@ -28,9 +28,13 @@
     padding: 0;
     cursor: pointer;
    }  
-  
+
   div{
     border: none;
+  }
+
+  a:link{
+    text-decoration: none;
   }
   
   section .section-biography{
@@ -114,20 +118,21 @@
     display: flex;
     justify-content: space-between;
     align-items: start;
-    margin-bottom: 16px;
+    margin-bottom: 32px;
     border-radius: 10px;
+    text-align: center;
   }
 
   section .section-continuos-sections{
     width: 100%;
-    height: auto;
+    height: inherit;
     padding: 10px;
     display: flex;
     flex-direction: row;
   }
 
   .continuos-col{
-    width: 48%;
+    width: 100%;
     height: inherit;
     display: flex;
     margin: 8px;
@@ -137,16 +142,25 @@
   }
 
   .continuos-col img{
-    width: 100%;
+    width: 50%;
     height: auto;
-    border-radius: 10px;
     padding:5px;
     margin-bottom: 12px;
+    border-radius: 30px;
+    border: 1px solid;
+    border-color: var(--border-color);
   }
 
   section-col-continous{
-    width: 49%;
+    width: 100%;
     height: auto;
+    padding: 10px;
+  }
+
+  .section-border{
+    border: 1px solid;
+    border-color: var(--border-color);
+    border-radius: 10px;
   }
 
   section-col{
