@@ -58,8 +58,7 @@
                 |<img align="center" alt="douginfodev-Js" height="80" width="90"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 <img align="center" alt="douginfodev-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
                 <img align="center"  alt="douginfodev-CSS" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-                <img align="center" alt="douginfodev-Php" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | <div style="font-weight:700; margin-bottom:20px;"><h2>ROBOTICA</h2></></div>
-               <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+                <img align="center" alt="douginfodev-Php" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
                <img align="center" alt="douginfodev-python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  |
               <div style="font-weight:700; margin-bottom:20px;"><h2>JOGOS</h2></div>
                <img align="center" alt="douginfodev-arduino" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
