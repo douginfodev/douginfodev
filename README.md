@@ -87,8 +87,6 @@
               <img align="center" alt="douginfodev-csharp" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
             </div>
        
-            </section>
-        </main>
-    </div>
+          
 </body>
 </html>
