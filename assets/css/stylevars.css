@@ -123,6 +123,7 @@ header .contact{
 .contact img{
   margin: 10px;
   width: 42px;
+  cursor: pointer;
 }
 
 main {
