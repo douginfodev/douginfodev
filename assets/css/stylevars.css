@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 * {
   padding: 0;
@@ -21,9 +21,11 @@
   --foreground-image:  url('../images/foreground.png');
 
   --section-space: 16px;
+  --line-height: 24px;
 
-  --font-family: 'Montserrat', serif;
+  --font-family: 'Roboto', serif;
   font-size: 62.5%;
+  font-family: var(--font-family);
   text-decoration: none;
 }
 
@@ -59,7 +61,15 @@ h2 {
 }
 
 p{
-   margin-bottom: 8px; 
+   margin-bottom: 16px; 
+   font-size: 2.0rem;
+   font-weight: 400;
+   line-height: 30px;
+  color: white;
+}
+
+b{
+  color: var(--primary-color);
 }
 span {
     font-size: 1.4rem;
@@ -112,6 +122,11 @@ header .brand .title{
     width: 230px;
 }
 
+a:link,
+a:visited{
+  color: white;
+}
+
 header .contact{
   width: 80%;
   height: auto;
@@ -131,7 +146,7 @@ main {
   flex-direction: column;
   width: 100%;
   padding: 15px;
-  height: auto;
+  height: calc(auto + 100px);
 }
 
 section {

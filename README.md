@@ -30,10 +30,17 @@
             <section style="display: inline-block; !important">
               <section class="section-biography">
                 <section class="section-description">
-                    <p>Me chamo Douglas A. Ramos, tenho 43 anos e atuo na área  de programação, desde 2004, onde tive a oportunidade de desenvolver softwares para lojas de autopeças, farmácias, escritórios de advocacia e cronometragem, todos utilizando arquitetura cliente/servidor.
-                    </p><p>Atuando na área de desenvolvimento web, desenvolvi sites institucionais, pessoais, bem como, portais de notícias.  Tais atividades foram na estruturação de sites responsivos(front-end), painéis administrativos (back-end), manutenção e atualização de sites. 
-                    </p><p></p>Atualmente trabalhando em desenvolvimento de API Rest para aplicações web e mobile, bem como, no desenvolvimento e atualizações de software(desktop) personalizados, para computação de tempos e resultados de competições desportivas.
-                    </p>
+                   <p> Bacharel em <b>Ciência da Computação</b> e Pós-Graduado em <b>Desenvolvimento Web e Mobile</b>,
+                            trabalho com <b>Desenvolvimento de Softwares</b> desde 2004, dentre eles, softwares para <b>Lojas de Autopeças,
+                            Farmácias, Escritórios de Advocacia e Cronometragem de Competições.</b>
+                        </p>
+                        <p>Em 2007, entrei na área de <b>Desenvolvimento Web</b>, com atualizações e <b>Desenvolvimento Front-end</b> de <b>Sites Institucionais, Blogs Pessoais, bem como,
+                            Portais de Notícias</b>. Na parte de <b>Desenvolvimento Back-end</b>, trabalhei com toda a programação da parte de painel administrativo dos sites.
+                        </p>
+                        <p>
+                        Atualmente, trabalhando com <b>Desenvolvimento Fullstack</b> com Javascript, HTML5, CSS3 e Typescript e NodeJS. Na parte de <b>Desenvolvimento API</b>, trabalhando com PHP (Laravel), Nodejs (Express, Fastify).
+                        Na parte de <b>Desenvolvimento de Software</b>, continuo trabalhando no Sistema de Computação de Resultados de Competições Desportivas.
+                        </p>
                 </section>
                 <section class="section-academy">
                     <h1>FORMAÇÃO ACADÊMICA</h1>
