@@ -74,7 +74,7 @@
                         </section-col>
                     </div> 
                       <section class="section-skills" style="display: inline_block; !important">
-                <h2>HARD SKILLS</h2>
+                <h3>HARD SKILLS</h3>
                 <div class="section-skills-hard" style="display: inline_block; !important">
                 |<img align="center" alt="douginfodev-Js" height="40" width="60"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 <img align="center" alt="douginfodev-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -88,7 +88,7 @@
                <img align="center" alt="douginfodev-csharp" height="40" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
             <section-channel>
                 </section-channel>
-              <div style="font-weight:700; margin-bottom:20px;"><h2>FERRAMENTAS / IDE / FRAMEWORKS</h2>
+              <div style="font-weight:700; margin-bottom:20px;"><h3>FERRAMENTAS / IDE / FRAMEWORKS</h3>
               <img align="center" alt="douginfodev-Js"  height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
               <img align="center" alt="douginfodev-arduino" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
               <img align="center" alt="douginfodev-arduino" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
