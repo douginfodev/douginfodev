@@ -71,12 +71,12 @@
                     </div>
                     <div class="section-channel-sections" style="display: inline_block; !important">
                         <section-col style="padding: 30px; margin:15px; display: inline_block; !important">
-                            <a href="https://www.dio.me" target="_blank">
-                            <figure>
-                                <img src="assets/images/logocampusexpert2024.svg" width="150px" height="70px" alt="Dio Campus Expert">
-                                <figcaption>Concluído: Maio / 2024</figcaption>
+                           <figure>
+                             <a href="https://www.dio.me" target="_blank">
+                             <img src="assets/images/logocampusexpert2024.svg" width="150px" height="70px" alt="Dio Campus Expert">
+                              <figcaption>Concluído: Maio / 2024</figcaption>
+                             </a> 
                             </figure>
-                            </a> 
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
                             </a>
                             <a href="https://desenvolve.grupoboticario.com.br/"  target="_blank">
