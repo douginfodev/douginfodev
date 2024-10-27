@@ -31,7 +31,7 @@
             <section style="display: inline-block; !important">
               <section class="section-biography">
                 <section class="section-description">
-                <h1>SOBRE</h1>
+                <h2>SOBRE</h2>
                         <p>    
                             Trabalhando com <b>Desenvolvimento de Softwares</b>, desde 2004, tive experiências em sistemas de <b>Autopeças, Farmácias, Advocacia, ERP e Cronometragem.</b>
                         </p>
@@ -43,7 +43,7 @@
                         </p>
                 </section>
                 <section class="section-academy">
-                    <h1>FORMAÇÃO ACADÊMICA</h1>
+                    <h2>FORMAÇÃO ACADÊMICA</h2>
                     <ul>
                        <li><b>2023 - Pós-Graduado</b> - Tecnologias e Desenvolvimento Web e Mobile - Faesa - Vitória-ES</li> 
                        <li><b>2018 - Licenciatura</b> - Matemãtica pelo Centro Unversitário Claretiano - Batatais-SP</li>
@@ -52,8 +52,29 @@
                     </ul>
                 </section>
               </section>
-            <section class="section-skills" style="display: inline_block; !important">
-                <h1>HARD SKILLS</h1>
+                    <div class="section-channel-title">
+                        <h2>PROGRAMA DE ESTUDOS -  Formação Continuada 2024</h2>
+                    </div>
+                    <div class="section-channel-sections" style="display: inline_block; !important">
+                        <section-col style="padding: 30px; margin:15px; display: inline_block; !important">
+                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
+                            </a>
+                            <a href="https://desenvolve.grupoboticario.com.br/"  target="_blank">
+                            <img src="assets/images/logodesenvolve2024.svg" width="150px" height="70x" alt="Desenvolve 2024 - Grupo Boticário"
+                             alt="Programa Desenvolve">
+                            </a>
+                              <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">
+                            <img src="assets/images/logoone.svg" width="150px" height="70px" alt="ONE - Oracle Next Education">
+                        </a>
+                           <figure style="display: flex; flex-direction: column">
+                             <a href="https://www.dio.me" target="_blank">
+                             <img src="assets/images/logocampusexpert2024.svg" width="150px" height="70px" alt="Dio Campus Expert">
+                             </a> 
+                           </figure>
+                        </section-col>
+                    </div> 
+                      <section class="section-skills" style="display: inline_block; !important">
+                <h2>HARD SKILLS</h2>
                 <div class="section-skills-hard" style="display: inline_block; !important">
                 |<img align="center" alt="douginfodev-Js" height="40" width="60"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
                 <img align="center" alt="douginfodev-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -66,28 +87,6 @@
                <img align="center" alt="douginfodev-python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  |
                <img align="center" alt="douginfodev-csharp" height="40" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
             <section-channel>
-                    <div class="section-channel-title">
-                        <h1>PROGRAMA DE ESTUDOS -  Formação Continuada 2024</h1>
-                    </div>
-                    <div class="section-channel-sections" style="display: inline_block; !important">
-                        <section-col style="padding: 30px; margin:15px; display: inline_block; !important">
-                            <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
-                            </a>
-                            <a href="https://desenvolve.grupoboticario.com.br/"  target="_blank">
-                            <img src="assets/images/logodesenvolve2024.svg" width="150px" height="70x" alt="Desenvolve 2024 - Grupo Boticário"
-                             alt="Programa Desenvolve">
-                         </a>
-                              <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">
-                            <img src="assets/images/logoone.svg" width="150px" height="70px" alt="ONE - Oracle Next Education">
-                        </a>
-                           <figure style="display: flex; flex-direction: column">
-                             <a href="https://www.dio.me" target="_blank">
-                             <img src="assets/images/logocampusexpert2024.svg" width="150px" height="70px" alt="Dio Campus Expert">
-                             </a> 
-                              <figcaption>Concluído: Maio / 2024</figcaption>
-                            </figure>
-                        </section-col>
-                    </div> 
                 </section-channel>
               <div style="font-weight:700; margin-bottom:20px;"><h2>FERRAMENTAS / IDE / FRAMEWORKS</h2>
               <img align="center" alt="douginfodev-Js"  height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
