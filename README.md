@@ -24,7 +24,7 @@
                     </div>
                     <div class="title">
                         <h1>DOUGLAS RAMOS - FULL STACK DEVELOPER</h1>
-                        <h2><i>Pós Graduado em Desenvolvimento Web e Mobile - Bacharel em Ciência da Computação - Licenciado em Matemática e Tecnólogo em Jogos Digitais</i></h2>
+                        <h4><i>Pós Graduado em Desenvolvimento Web e Mobile - Bacharel em Ciência da Computação - Licenciado em Matemática e Tecnólogo em Jogos Digitais</i></h4>
                     </div>
                 </div>
             </header>
