@@ -54,16 +54,16 @@
             <section class="section-skills" style="display: inline_block; !important">
                 <h1>HARD SKILLS</h1>
                 <div class="section-skills-hard" style="display: inline_block; !important">
-                |<img align="center" alt="douginfodev-Js" height="50" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-                <img align="center" alt="douginfodev-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-                <img align="center"  alt="douginfodev-CSS" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-                <img align="center"  alt="douginfodev-typescript" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-                <img align="center"  alt="douginfodev-node" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-                <img align="center" alt="douginfodev-Php" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | 
-                <img align="center" alt="douginfodev-laravel" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-                 <img align="center" alt="douginfodev-python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">            
-               <img align="center" alt="douginfodev-python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  |
-               <img align="center" alt="douginfodev-csharp" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
+                |<img align="center" alt="douginfodev-Js" height="40" width="60"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+                <img align="center" alt="douginfodev-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+                <img align="center"  alt="douginfodev-CSS" height="40" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+                <img align="center"  alt="douginfodev-typescript" height="40" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+                <img align="center"  alt="douginfodev-node" height="40" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+                <img align="center" alt="douginfodev-Php" height="40" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | 
+                <img align="center" alt="douginfodev-laravel" height="40" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+                 <img align="center" alt="douginfodev-python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">            
+               <img align="center" alt="douginfodev-python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  |
+               <img align="center" alt="douginfodev-csharp" height="40" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
             <section-channel>
                     <div class="section-channel-title">
                         <h1>PROGRAMA DE ESTUDOS -  Formação Continuada</h1>
