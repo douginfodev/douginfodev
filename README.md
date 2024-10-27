@@ -72,7 +72,8 @@
                     <div class="section-channel-sections" style="display: inline_block; !important">
                         <section-col style="padding: 30px; margin:15px; display: inline_block; !important">
                             <a href="https://www.dio.me" target="_blank">
-              <figure src="assets/images/logocampusexpert2024.svg" width="150px" height="70px" alt="Dio Campus Expert">
+              <figure>
+              <img src="assets/images/logocampusexpert2024.svg" width="150px" height="70px" alt="Dio Campus Expert">
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
                             </a>
                             <figcaption>Concluído: Maio / 2024</figcaption>
