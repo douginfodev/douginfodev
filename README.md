@@ -24,31 +24,33 @@
                     </div>
                     <div class="title">
                         <h1>DOUGLAS RAMOS - FULL STACK DEVELOPER</h1>
+                        <h3>Pós Graduado em Desenvolvimento Web e Mobile - Bacharel em Ciência da Computação - Licenciado em Matemática e Tecnólogo em Jogos Digitais</h3>
                     </div>
                 </div>
             </header>
             <section style="display: inline-block; !important">
               <section class="section-biography">
                 <section class="section-description">
-                   <p> Bacharel em <b>Ciência da Computação</b> e Pós-Graduado em <b>Desenvolvimento Web e Mobile</b>,
-                            trabalho com <b>Desenvolvimento de Softwares</b> desde 2004, dentre eles, softwares para <b>Lojas de Autopeças,
-                            Farmácias, Escritórios de Advocacia e Cronometragem de Competições.</b>
+                        <p>    
+                            Trabalhando com <b>Desenvolvimento de Softwares</b>, desde 2004, tive experiências em sistemas de <b>Autopeças,                    Farmácias, Advocacia, ERP e Cronometragem.</b>
                         </p>
-                        <p>Em 2007, entrei na área de <b>Desenvolvimento Web</b>, com atualizações e <b>Desenvolvimento Front-end</b> de <b>Sites Institucionais, Blogs Pessoais, bem como,
-                            Portais de Notícias</b>. Na parte de <b>Desenvolvimento Back-end</b>, trabalhei com toda a programação da parte de painel administrativo dos sites.
+                        <p>Em 2007, acrescentei o <b>Desenvolvimento Web</b> no meu portfolio de serviços, tendo como no <b>Desenvolvimento Front-end</b> a criação de Sites Estáticos / dinâmicos de Empresas, Blogs Pessoais, e     Portais de Notícias, bem como, suas atualizações e manutenções.
+                        
+                        Na parte do <b>Desenvolvimento Back-end</b>, era responsável pelo desenvolvimento e programação do painel administrativo dos sites dinâmicos e acesso a sua base de dados.
                         </p>
                         <p>
-                        Atualmente, trabalhando com <b>Desenvolvimento Fullstack</b> com Javascript, HTML5, CSS3 e Typescript e NodeJS. Na parte de <b>Desenvolvimento API</b>, trabalhando com PHP (Laravel), Nodejs (Express, Fastify).
-                        Na parte de <b>Desenvolvimento de Software</b>, continuo trabalhando no Sistema de Computação de Resultados de Competições Desportivas.
+                        Atualmente, venho trabalhando com <b>Desenvolvimento Full Stack</b> com Javascript, HTML5, CSS3 e Typescript e NodeJS. Na parte de <b>Desenvolvimento API</b>, trabalhando com PHP (Laravel), Nodejs (Express, Fastify, Prisma).
+                        
+                        Na parte de <b>Desenvolvimento de Software</b>, ainda continuo trabalhando no desenvolvimento e manutenção em um Sistema de Computação de Resultados de Competições Desportivas.
                         </p>
                 </section>
                 <section class="section-academy">
                     <h1>FORMAÇÃO ACADÊMICA</h1>
                     <ul>
-                       <li>Pós-Graduado em Tecnologias e Desenvolvimento Web e Mobile - Faesa 2023</li> 
-                       <li>Bacharel em Ciência da Computação pela Universidade de Vila Velha (2004)</li>
-                       <li>Tecnólogo em Desenvolvimento de Jogos Digitais - FAESA 2014</li>
-                       <li>Licenciatura em Matemãtica pelo Centro Unversitário Claretiano - 2018</li>
+                       <li>2023 - Pós-Graduado em Tecnologias e Desenvolvimento Web e Mobile - Faesa</li> 
+                       <li>2018 - Licenciatura em Matemãtica pelo Centro Unversitário Claretiano</li>
+                       <li>2015 - Tecnólogo em Desenvolvimento de Jogos Digitais - FAESA</li>
+                       <li>2004 - Bacharel em Ciência da Computação pela Universidade de Vila Velha</li>
                     </ul>
                 </section>
               </section>
@@ -61,7 +63,8 @@
                 <img align="center"  alt="douginfodev-typescript" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
                 <img align="center"  alt="douginfodev-node" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
                 <img align="center" alt="douginfodev-Php" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | 
-                <img align="center" alt="douginfodev-laravel" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"> | 
+                <img align="center" alt="douginfodev-laravel" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">   | 
                <img align="center" alt="douginfodev-python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  |
                <img align="center" alt="douginfodev-csharp" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
             <section-channel>
