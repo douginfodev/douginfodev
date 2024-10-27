@@ -31,7 +31,7 @@
             <section style="display: inline-block; !important">
               <section class="section-biography">
                 <section class="section-description">
-                <h2>SOBRE</h2>
+                <h3>SOBRE</h3>
                         <p>    
                             Trabalhando com <b>Desenvolvimento de Softwares</b>, desde 2004, tive experiências em sistemas de <b>Autopeças, Farmácias, Advocacia, ERP e Cronometragem.</b>
                         </p>
@@ -43,7 +43,7 @@
                         </p>
                 </section>
                 <section class="section-academy">
-                    <h2>FORMAÇÃO ACADÊMICA</h2>
+                    <h3>FORMAÇÃO ACADÊMICA</h3>
                     <ul>
                        <li><b>2023 - Pós-Graduado</b> - Tecnologias e Desenvolvimento Web e Mobile - Faesa - Vitória-ES</li> 
                        <li><b>2018 - Licenciatura</b> - Matemãtica pelo Centro Unversitário Claretiano - Batatais-SP</li>
