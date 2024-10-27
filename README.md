@@ -80,7 +80,7 @@
                               <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">
                             <img src="assets/images/logoone.svg" width="150px" height="70px" alt="ONE - Oracle Next Education">
                         </a>
-                              <figure>
+                           <figure style="display: flex; flex-direction: column">
                              <a href="https://www.dio.me" target="_blank">
                              <img src="assets/images/logocampusexpert2024.svg" width="150px" height="70px" alt="Dio Campus Expert">
                              </a> 
