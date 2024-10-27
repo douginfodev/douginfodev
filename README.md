@@ -24,7 +24,7 @@
                     </div>
                     <div class="title">
                         <h1>DOUGLAS RAMOS - FULL STACK DEVELOPER</h1>
-                        <h4><i>Pós Graduado em Desenvolvimento Web e Mobile - Bacharel em Ciência da Computação - Licenciado em Matemática e Tecnólogo em Jogos Digitais</i></h4>
+                        <p><i>Pós Graduado em Desenvolvimento Web e Mobile - Bacharel em Ciência da Computação - Licenciado em Matemática e Tecnólogo em Jogos Digitais</i></p>
                     </div>
                 </div>
             </header>
@@ -44,24 +44,24 @@
                 <section class="section-academy">
                     <h1>FORMAÇÃO ACADÊMICA</h1>
                     <ul>
-                       <li>2023 - Pós-Graduado em Tecnologias e Desenvolvimento Web e Mobile - Faesa</li> 
-                       <li>2018 - Licenciatura em Matemãtica pelo Centro Unversitário Claretiano</li>
-                       <li>2015 - Tecnólogo em Desenvolvimento de Jogos Digitais - FAESA</li>
-                       <li>2004 - Bacharel em Ciência da Computação pela Universidade de Vila Velha</li>
+                       <li><b>2023 - Pós-Graduado</b> - Tecnologias e Desenvolvimento Web e Mobile - Faesa - ES</li> 
+                       <li><b>2018 - Licenciatura</b> - Matemãtica pelo Centro Unversitário Claretiano - SP</li>
+                       <li><b>2015 - Tecnólogo</b> - Desenvolvimento de Jogos Digitais - FAESA - ES</li>
+                       <li><b>2004 - Bacharel</b> -  Ciência da Computação pela Universidade de Vila Velha - ES</li>
                     </ul>
                 </section>
               </section>
             <section class="section-skills" style="display: inline_block; !important">
                 <h1>HARD SKILLS</h1>
                 <div class="section-skills-hard" style="display: inline_block; !important">
-                |<img align="center" alt="douginfodev-Js" height="80" width="90"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-                <img align="center" alt="douginfodev-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+                |<img align="center" alt="douginfodev-Js" height="50" width="70"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+                <img align="center" alt="douginfodev-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
                 <img align="center"  alt="douginfodev-CSS" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
                 <img align="center"  alt="douginfodev-typescript" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
                 <img align="center"  alt="douginfodev-node" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
                 <img align="center" alt="douginfodev-Php" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | 
                 <img align="center" alt="douginfodev-laravel" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">   | 
+                 <img align="center" alt="douginfodev-python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">            
                <img align="center" alt="douginfodev-python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  |
                <img align="center" alt="douginfodev-csharp" height="80" width="90"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">              
             <section-channel>
