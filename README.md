@@ -57,6 +57,10 @@
                     </div>
                     <div class="section-channel-sections" style="display: inline_block; !important">
                         <section-col style="padding: 30px; margin:15px; display: inline_block; !important">
+                             <a href="https://escoladanuvem.org/curso-aws-fundamentos/"  target="_blank">
+                            <img src="assets/images/escolaaws.jpg" width="150px" height="70x" alt="Escola AWS"
+                             alt="Programa Desenvolve">
+                            </a>
                             <a href="https://www.youtube.com/playlist?list=PLjHNIrs1qFsxoFkFqsCWLVVVXucF_OkVZ" target="_blank">
                             </a>
                             <a href="https://desenvolve.grupoboticario.com.br/"  target="_blank">
